@@ -1,0 +1,11 @@
+pandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+folium
+prophet
+lightgbm
+beautifulsoup4
+tslearn
+cython
